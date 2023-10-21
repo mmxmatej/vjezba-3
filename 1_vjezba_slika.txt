@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title> Title </title>
+</head>
+<body>
+		<h1>Naslov</h1>
+		<h2>Podnaslov</h2>
+		<p>Odlomak 1 </p>
+		<p>Odlomak 2 </p>
+		
+		<!-- Slika sa apsolutnom putanjom -->
+		<img src="https://uploads-ssl.webflow.com/63851d467dc151a9f46a992b/638630e65ff3e232dfed5ef1_62717982fd85850f5976dc1e_Ron%2520swanson.jpeg" alt="Apsolutna slika">
+		
+		<!-- Slika sa relativnom putanjom -->
+		<img src="swanson.jpeg" alt="Relativna slika">
+</body>
+</html>
